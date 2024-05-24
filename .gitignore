@@ -1,0 +1,22 @@
+# Ignore operating system generated files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+
+# Ignore build artifacts
+build/
+dist/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore dependencies and packages
+node_modules/
+
+
+# Ignore .env files as they are personal
+.env
